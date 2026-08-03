@@ -1,0 +1,7 @@
+streamlit
+streamlit-searchbox
+requests
+pandas
+openai
+python-dotenv
+reportlab
