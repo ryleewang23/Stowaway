@@ -842,19 +842,19 @@ if not st.session_state.trip_generated:
     with overview_col1:
         st.metric(
             "Weather-aware",
-            "Live + historical"
+            "Live Predictions"
         )
 
     with overview_col2:
         st.metric(
             "Personalized",
-            "Activities + AI"
+            "With AI"
         )
 
     with overview_col3:
         st.metric(
             "Organized",
-            "Compact categories"
+            "By Category"
         )
 
 
