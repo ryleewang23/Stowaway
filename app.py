@@ -842,7 +842,7 @@ if not st.session_state.trip_generated:
     with overview_col1:
         st.metric(
             "Weather-aware",
-            "Live Predictions"
+            "Forecasts"
         )
 
     with overview_col2:
